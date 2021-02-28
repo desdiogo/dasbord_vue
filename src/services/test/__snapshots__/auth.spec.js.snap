@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`auth services Login com sucesso 1`] = `
+Object {
+  "data": Object {
+    "token": "12346789Oi",
+  },
+  "errors": null,
+}
+`;
+
+exports[`auth services Retornando dados do login 1`] = `
+Object {
+  "data": Object {
+    "email": "igor@igor.me",
+    "name": "Igor",
+    "password": "1234",
+  },
+  "errors": null,
+}
+`;
